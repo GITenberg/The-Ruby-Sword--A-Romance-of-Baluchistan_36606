@@ -1,0 +1,35 @@
+_repo: The-Ruby-Sword--A-Romance-of-Baluchistan_36606
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Piffard, Harold
+    deathdate: 1938
+    gutenberg_agent_id: '9844'
+    url: http://www.gutenberg.org/2009/agents/9844
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mitford, Bertram
+    birthdate: 1855
+    deathdate: 1914
+    gutenberg_agent_id: '32710'
+    url: http://www.gutenberg.org/2009/agents/32710
+description: ''
+gutenberg_issued: '2011-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Treasure troves -- Fiction'
+- !lcsh 'Adventure stories, English'
+- !lcc 'PR'
+- !lcsh 'British -- Baluchistan -- Fiction'
+- !lcsh 'Baluchistan -- Fiction'
+title: 'The Ruby Sword: A Romance of Baluchistan'
+url: http://www.gutenberg.org/ebooks/36606
